@@ -1,3 +1,7 @@
+📁 Repository Archived
+This repository has been archived as part of ongoing changes to align with ONS GitHub usage policies. No further updates will be made.
+
+
 [![build status](http://img.shields.io/travis/datasciencecampus/pyGrams/master.svg?style=flat)](https://travis-ci.org/datasciencecampus/pyGrams)
 [![Build status](https://ci.appveyor.com/api/projects/status/oq49c4xuhd8j2mfp/branch/master?svg=true)](https://ci.appveyor.com/project/IanGrimstead/patent-app-detect/branch/master)
 [![codecov](https://codecov.io/gh/datasciencecampus/pyGrams/branch/master/graph/badge.svg)](https://codecov.io/gh/datasciencecampus/pyGrams)
